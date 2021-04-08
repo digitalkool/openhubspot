@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Open HubSpot",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Opens HubSpot In A New Thunderbird Tab",
+    "description": "Description of the extension."
+  },
+
+  "browseractionCaption": {
+    "message": "Open HubSpot",
+    "description": "Caption of the tool bar button."
+  }
+} 
